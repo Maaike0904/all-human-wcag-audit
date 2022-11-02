@@ -1,11 +1,27 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 
-# WCAG Audit 
+# All human WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+## Inhoudsopgave
+* Beschrijving
+* Kenmerken
+* Conclusie
+* Licentie
 
-## Titel Website
+## Beschrijving
+
+Het is belangrijk dat een website goed accessible is. Ik heb de website van het Mediacollege Amsterdam getest. Dit is mijn oude school. Ik wilde deze graag onderzoeken om te kijken of er op opleidingen goed naar wordt gekeken of hun website goed toegankelijk is.
+
+Op deze website heb ik een handmatige test gedaan, en een lighthouse test. Uit deze lighthouse test is gebleken dat deze website een accessibility heeft van 77. Dit kan zeker nog beter.
+
+## Kenmerken
+
+De lighthouse test kijkt onder andere naar de kleurcontrasten en of de HTML goed is geschreven. Bij de handmatige tests wordt er vooral gekeken naar of de website goed te bedienen is met het het toetsenbord en een screenreader.
+
+## Conclusie
+
+
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
