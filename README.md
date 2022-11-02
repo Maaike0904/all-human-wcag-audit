@@ -11,7 +11,7 @@
 
 ## Beschrijving
 
-Het is belangrijk dat een website goed accessible is. Ik heb de website van het Mediacollege Amsterdam getest. Dit is mijn oude school. Ik wilde deze graag onderzoeken om te kijken of er op opleidingen goed naar wordt gekeken of hun website goed toegankelijk is.
+Het is belangrijk dat een website goed accessible is. Ik heb de website van het Mediacollege Amsterdam getest. Dit is mijn oude school. Ik wilde deze graag onderzoeken om te kijken of er op opleidingen goed gekeken wordt naar of hun website goed toegankelijk is.
 <br><img width="1392" alt="Schermafbeelding 2022-11-02 om 08 42 27" src="https://user-images.githubusercontent.com/112861144/199451703-4ee0816a-e495-4f00-9b4f-133ba2bb8bd2.png">
 <br>Op deze website heb ik een handmatige test gedaan, en een lighthouse test. Uit deze lighthouse test is gebleken dat deze website een accessibility heeft van 77. Dit kan zeker nog beter.
 <br><img width="1439" alt="Schermafbeelding 2022-10-24 om 09 56 53" src="https://user-images.githubusercontent.com/112861144/199451816-9d048f69-df0e-4c9e-af0a-f76f0300fd3a.png">
